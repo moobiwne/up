@@ -1,9 +1,9 @@
 [
  {
-   "name": "آپدیت جدید",
+   "name": " آپدیت جدید رسید",
    "text": "برای دریافت جدیدترین امکانات و اطلاعات ، گیتاریسم را به روز کنید",
-   "update": true,
-   "link": "https://myket.ir/com.guitar.duman",
+   "update": false,
+   "link": "https://myket.ir/app/com.guitar.duman",
    "mode": true
   }
 ]
